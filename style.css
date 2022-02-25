@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@100;200;300;400;500;600;700;800&family=Major+Mono+Display&display=swap');
 :root {
 
-    --bg: #070719;
+    --bg: #FFE4B5;
     --fg: #a9b1d6;
 
-    --blue: #7da6ff;
+    --blue: #7DA6FF;
     --green: #9ECE6A;
-    --purple: #ad8ee6;
+    --purple: #AD8EE6;
     --yellow: #E0AF68;
-    --pink: #fd5bd4;
+    --pink: #fD5BD4;
 
 }
 * {
